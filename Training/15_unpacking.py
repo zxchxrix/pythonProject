@@ -4,3 +4,7 @@ coordinates = (1, 2, 3)
 # z = coordinates[2]
 
 x, y, z = coordinates
+
+# works with lists too
+coordinates = [1, 2, 3]
+x, y, z = coordinates

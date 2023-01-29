@@ -24,7 +24,7 @@ while attempt <= 3:
         attempt += 1
 
 if attempt == 4:
-    print(f'Sorry you are all out of attempts. The secret number was {secretNum}')
+    print(f'You\'re a fucking loser. The secret number was {secretNum}')
 else:
     print('Great job on getting the secret number. Try the game again!')
 
